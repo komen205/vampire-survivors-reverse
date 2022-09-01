@@ -1,0 +1,43 @@
+ [_0xfabb45['default']['HOLYBOOK']]: [{
+                            'level': 0x1,
+                            'bulletType': _0xfabb45[_0x51c578(0xb02)][_0x51c578(0x472)],
+                            'name': 'King Bible',
+                            'description': 'Orbits around the character.',
+                            'tips': 'Best with: speed, duration, area.',
+                            'texture': 'items',
+                            'frameName': 'HolyBook.png',
+                            'evoSynergy': [_0xfabb45['default'][_0x51c578(0xe6d)]],
+                            'evoInto': _0xfabb45[_0x51c578(0xb02)]['VESPERS'],
+                            'isUnlocked': !0x0,
+                            'poolLimit': 0x32,
+                            'rarity': 0x50,
+                            'interval': 0x0,
+                            'repeatInterval': 0x0,
+                            'power': 0xff,
+                            'area': 0x1,
+                            'speed': 0xff,
+                            'amount': 0x1,
+                            'duration': 0xbb8,
+                            'hitBoxDelay': 0x6a4,
+                            'intervalDependsOnDuration': !0x0,
+                            'hitsWalls': !0x1
+                        }, {
+                            'amount': 0x1
+                        }, {
+                            'speed': 0.3,
+                            'area': 0.25
+                        }, {
+                            'duration': 0x1f4,
+                            'power': 0x1
+                        }, {
+                            'amount': 0x1
+                        }, {
+                            'speed': 0.3,
+                            'area': 0.25
+                        }, {
+                            'duration': 0x1f4,
+                            'power': 0x1
+                        }, {
+                            'amount': 0x1,
+                            'addEvolvedWeapon': _0xfabb45[_0x51c578(0xb02)]['VESPERS']
+                        }],
